@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      "react-native-pdf@3.0.16",
+      "/Users/mayuk/Desktop/Leapin"
+    ]
+  ],
+  "_from": "react-native-pdf@3.0.16",
+  "_id": "react-native-pdf@3.0.16",
+  "_inBundle": false,
+  "_integrity": "sha512-hoxvFPzkxkJelK9eQigrr4KJk+NjDZWhNQGV10FxEFaiKLgEWN9d6dgEuOQxIp0ylV6EQiCbNAItLDeDvKLUhQ==",
+  "_location": "/react-native-pdf",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-pdf@3.0.16",
+    "name": "react-native-pdf",
+    "escapedName": "react-native-pdf",
+    "rawSpec": "3.0.16",
+    "saveSpec": null,
+    "fetchSpec": "3.0.16"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-pdf/-/react-native-pdf-3.0.16.tgz",
+  "_spec": "3.0.16",
+  "_where": "/Users/mayuk/Desktop/Leapin",
+  "author": {
+    "name": "Wonday",
+    "url": "https://github.com/wonday"
+  },
+  "bugs": {
+    "url": "https://github.com/wonday/react-native-pdf/issues"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "prop-types": "^15.5.10"
+  },
+  "description": "A react native PDF view component",
+  "homepage": "https://github.com/wonday/react-native-pdf#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "ios",
+    "pdf",
+    "view",
+    "viewer"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-pdf-enhancement",
+  "peerDependencies": {
+    "react-native-fetch-blob": "^0.10.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayuran-mitrai/react-native-pdf-mitrai.git"
+  },
+  "typings": "./index.d.ts",
+  "version": "3.0.16"
+}
